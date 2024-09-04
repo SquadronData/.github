@@ -8,8 +8,6 @@ Squadron Data is a premier North American company specializing in Data Platform,
 ### Platforms We Support
 
 - **Snowflake**: Extensive expertise, including our proprietary Data Warehouse Migrator for automated migrations.
-- **Datavolo**: Replaces single-use, point-to-point code with fast, flexible, reusable pipelines, freeing you to focus on what matters most—doing incredible work.
-- **Cloudera Data Platform (CDP)**: Our primary focus is with Snowflake; however, our expertise in CDP provides our clients with stellar resources to assist with migrations of any size.
 
 ### Our Solutions
 
